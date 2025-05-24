@@ -309,5 +309,5 @@ elif menu == "Transaksi":
 # =========================
 elif menu == "Contact":
     st.title("📞 Hubungi Kami")
-    st.write("📧 Email: wortelbalap03@gmail.com")
+    st.write("📧 Email: wortelbalappp@gmail.com")
     st.write("📱 WhatsApp: +6289515557063")
